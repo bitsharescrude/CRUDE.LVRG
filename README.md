@@ -23,12 +23,7 @@ Leveraged tokens are innovative assets that can give you leveraged exposure to c
 CRUDE.LVRG is a 5x long/Short BTS token that follows the weekly price change of bitshares.  For every 1% BTS goes up in a day, CLVRG goes up 5%; for every 1% BTS goes down, CLVRG goes down 5%.
  As a rule of thumb CRUDE.LVRG holders have the long position in BTS and the short positon in CRUDE.NGN and viseversa.
  * A sale of the token (Shorting) indicates a close of position.
-# ODDS
-CRUDE.LVRG supply works on a 1:5 odd, What this means is that to open a postion (go long/buy) freshly issued coins are done at 20% of the face value
-For example to open a 1000CRUDE.LVRG position (to issue 1000CLVRG) the buyer would be required to pay 5000BTS or its equivalent in stablecoin, assuming the initial rate was 1BTS.
-The Resulting BTS is used to open a postion against CNGN starting at 2200x the rate i.e 2200BTS/CNGN (should BTS drop by 20% long postions are assumed to be liquidated, to maintain price the 5000BTS will then be used to buy the coin starting at almost 15000BTS/CLVRG).
-
-
+ * Never Sell CLVRG for BTS i.e CLVRG/BTS is forbidden, you may lose money by doing so, only sell for CNGN....
 
 # Disclaimers
 None of this is investment advice.
