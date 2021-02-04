@@ -1,8 +1,7 @@
 # CRUDE.LVRG
 
 # Description
-This asset is used to promote the value of bitshares as a cryptocurrency in Nigeria.
-It represents 30% in payout value by bitsharescrude.
+This asset is used as a bitshares investment instrument.
 
 # Asset Parameters
 - Max Supply 180,028,525.000000
@@ -26,4 +25,9 @@ CRUDE.BTS, which is used for margin trade and loans
 CRUDE.NGN a stable naira coin
 CRUDE.BTSP represents liquidity-pool for yearly savings..
 and CRUDE.LVRG which represent a bitshares investment instrument.
+# CRUDE.LVRG VALUE
+- CURRENT VALUE
+ Circulating Supply X price
+- TARGETTED VALUE
+Total supply X price
 
