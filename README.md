@@ -1,7 +1,8 @@
 # CRUDE.LVRG
 
 # Description
-This asset tracks the weekly price of bitshares at 5X the weekly price change of Bitshares
+This asset is used to promote the value of bitshares as a cryptocurrency in Nigeria.
+It represents 30% in payout value by bitsharescrude.
 
 # Asset Parameters
 - Max Supply 180,028,525.000000
