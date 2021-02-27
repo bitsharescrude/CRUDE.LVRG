@@ -19,15 +19,4 @@ This asset is used as a bitshares investment instrument.
 # Flags
 - Enable market fee
 # How It Works
-CRUDE.LVRG was originally meant to follow 5x the price of bitshares weekly, however it will now represent a bitshares investment instrument that supports the continued growth of bitshares.
-Bitsharescrude has four main assets currently
-CRUDE.BTS, which is used for margin trade and loans
-CRUDE.NGN a stable naira coin
-CRUDE.BTSP represents liquidity-pool for yearly savings..
-and CRUDE.LVRG which represent a bitshares investment instrument.
-# CRUDE.LVRG VALUE
-- CURRENT VALUE
- Circulating Supply X price
-- TARGETTED VALUE
-Total supply X price
 
