@@ -19,4 +19,9 @@ This asset is used as a bitshares investment instrument.
 # Flags
 - Enable market fee
 # How It Works
-
+- Users send their contributions to crude-leverage
+- an equivalent amount of is sent to their wallet.
+- the contributed funds are then used to open a CRUDE.BTSP liquidity contract.
+- all contract funds for CRUDE.LVRG are reflected on the crude-leverage wallet.
+- the funds will be released for bitshares by year end and distributed to masterwallets.
+- masterwallets are accounts that have a minimum balance of 10million CRUDE.LVRG.
