@@ -20,7 +20,7 @@ This asset is used as a bitshares investment instrument.
 - Enable market fee
 # How It Works
 - CRUDE.LVRG is primarily a reward token for contributors to bitsharescrude fund.
-- Users who contribute to the tune of 7million CRUDE.LVRG tokens become masterwallets.
+- Users who contribute to the tune of 7million CRUDE.LVRG tokens become eligible for rewards.
 - the funds gotten are locked in the CRUDE.BTSP Liquidity Pool Contract.
 - all contract funds for CRUDE.LVRG are reflected on the crude-leverage wallet.
-- the funds will be released for bitshares by year end and distributed to the masterwallets.
+- the initial funds gotten will then be distributed by year end and distributed to the masterwallets.
