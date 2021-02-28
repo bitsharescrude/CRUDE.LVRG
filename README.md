@@ -23,4 +23,4 @@ This asset is used as a bitshares investment instrument.
 - Users who contribute to the tune of 7million CRUDE.LVRG tokens become eligible for rewards.
 - the funds gotten are locked in the CRUDE.BTSP Liquidity Pool Contract.
 - all contract funds for CRUDE.LVRG are reflected on the crude-leverage wallet.
-- the initial funds gotten will then be distributed by year end and distributed to the masterwallets.
+- the initial funds gotten will then be distributed to the contributors by year end.
