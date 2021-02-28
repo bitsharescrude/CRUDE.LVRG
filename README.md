@@ -1,7 +1,7 @@
 # CRUDE.LVRG
 
 # Description
-This asset is used as a bitshares investment instrument.
+This asset is reward token for bitsharescrude
 
 # Asset Parameters
 - Max Supply 180,028,525.000000
