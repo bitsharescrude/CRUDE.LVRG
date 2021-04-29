@@ -26,3 +26,16 @@ This asset is reward token for bitsharescrude
 - all contract funds for CRUDE.LVRG are reflected on the crude-leverage wallet.
 - The profits gotten from the pool share distribution will then be used to buy back CRUDE.LVRG from the market.
 - This in-turn will reduce the yearly budget supply to holders and increase the value of the token via its locked contract. 
+
+# CRUDE.BTX
+This token is a smartcoin backed by CRUDE.LVRG, it represents 5x the price change of bitshares daily, price is fed @ least once
+daily and it's taken from the close price of the BTS token.
+
+# HOW IT WORKS
+Originally, FTX tokens represent the underlying value of a leveraged asset, however this feature is not present currently on the
+Bitshares DEX, rather it requires a trader who is willing to borrow the asset @ an MCR of 5, 
+in the hope of selling for more LVRG tokens, while the buyer hopes to accumulate more BTX in order to get more BTS.
+The basic economy is that as the price of bitshares drops, the MCR drops, an 18% drop in the price of bitshares will cause a
+90% drop in price and may lead to the margin being called or ultimately global settlement, causing the BTX borrower to lose his margin and CLVRG tokens.
+However as long as bitshares price continues to go up, the margin is safe and the borrower can add to his position.
+The asset is extremely volatile thus the borrower must always be ready to maintain his position or end up losing his funds.
