@@ -17,7 +17,7 @@ LEVERAGE is the main investment vehicle of bitsharescrude-fund. Its market value
 - Disable confidential transactions
 # Flags
 - Enable market fee
-# How It Works
+# HOW IT WORKS
 - CRUDE.LVRG is primarily a reward token for contributors to bitsharescrude fund.
 - Users contribute by staking to the stablecoin liqiudity pools of Leverage. Currently there are two stable pools CRUDE.LVCNY and CRUDE.USDTLP.
 - Every month CRUDE.STHLP tokens are then distributed to the ten richest wallets holding the assets in their wallets (The assets in order books will not be counted), according to a simple sharing formula where the highest contributor gets more reward.
